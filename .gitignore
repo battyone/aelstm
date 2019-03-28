@@ -1,0 +1,8 @@
+*.idea
+*.swp
+*dataset
+*parameters
+plots/
+__pycache__/
+simgs/
+.ipynb_checkpoints/
